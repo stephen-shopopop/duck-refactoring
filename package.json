@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/package.json",
+  "name": "duck-refactoring",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "build": "slidev build",
+    "dev": "slidev --open",
+    "export": "slidev export",
+    "maintenance": "rm -rf ./node_modules && npm cache clean --force"
+  },
+  "dependencies": {
+    "@slidev/cli": "^51.1.0",
+    "@slidev/theme-default": "latest",
+    "@slidev/theme-seriph": "latest",
+    "vue": "^3.5.13"
+  }
+}
