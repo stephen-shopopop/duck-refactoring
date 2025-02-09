@@ -36,5 +36,7 @@
 		// Formating/lint
 		"biomejs.biome",
 		"esbenp.prettier-vscode",
+		// Slidev
+		"antfu.slidev"
 	]
 }

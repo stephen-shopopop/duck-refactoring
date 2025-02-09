@@ -1,7 +1,7 @@
 {
 	"files.eol": "\n",
 	"files.insertFinalNewline": true,
-	"[json][[jsonc][yaml][typespec][markdown][css]": {
+	"[json][[jsonc][yaml][typespec][css]": {
 		"editor.formatOnSave": true,
 		"editor.formatOnPaste": true,
 		"editor.insertSpaces": true,
