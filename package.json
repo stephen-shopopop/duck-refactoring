@@ -1,6 +1,7 @@
 {
   "$schema": "https://json.schemastore.org/package.json",
   "name": "duck-refactoring",
+  "description": "Refactoring for developers",
   "type": "module",
   "private": true,
   "scripts": {
@@ -14,5 +15,10 @@
     "@slidev/theme-default": "latest",
     "@slidev/theme-seriph": "latest",
     "vue": "^3.5.13"
+  },
+  "author": "Stephen Deletang <stephen-shopopop@shopopop.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stephen-shopopop/duck-refactoring"
   }
 }
