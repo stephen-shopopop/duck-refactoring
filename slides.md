@@ -12,7 +12,7 @@ info: |
 author: stephen deletang
 keywords: code-smell, refactoring
 presenter: true
-browserExporter: dev
+browserExporter: build
 download: true,
 exportFilename: ducker-refactoring-exported
 export:
